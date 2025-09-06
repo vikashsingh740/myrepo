@@ -7,7 +7,6 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class General {
-    private static String subhachnadra;
 
     public static void main(String[] args) {
 //        General general = new General();
